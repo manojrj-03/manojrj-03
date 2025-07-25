@@ -5,8 +5,10 @@
 - Bsc Computer Science Degree at ST.Hindu College, Nagercoil.</br>
 
 💬 Let’s Connect
-[![Logo Alt Text](https://img.icons8.com/fluency/48/linkedin.png)](https://www.linkedin.com/in/manoj-r-1078692ab/)
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>(https://www.linkedin.com/in/manoj-r-1078692ab/)
+<br/>[![Logo Alt Text](https://img.icons8.com/fluency/48/linkedin.png)](https://www.linkedin.com/in/manoj-r-1078692ab/)
+<br/>[![Logo Alt Text](https://img.icons8.com/fluency/48/gmail-new.png)](rjmanoj3260@gmail.com)
+
+
 
 ### I code in
 <img width="50" height="50" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/> <img width="50" height="50" src="https://img.icons8.com/color/48/css3.png" alt="css3"/> <img width="50" height="50" src="https://img.icons8.com/color-glass/48/bootstrap.png" alt="bootstrap"/> <img width="50" height="50" src="https://img.icons8.com/fluency/48/javascript.png" alt="javascript"/> <img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo"/>
