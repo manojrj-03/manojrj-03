@@ -8,7 +8,7 @@
 
 ### I code in
 <img width="50" height="50" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/> <img width="50" height="50" src="https://img.icons8.com/color/48/css3.png" alt="css3"/> <img width="50" height="50" src="https://img.icons8.com/color-glass/48/bootstrap.png" alt="bootstrap"/> <img width="50" height="50" src="https://img.icons8.com/fluency/48/javascript.png" alt="javascript"/> <img width="50" height="50" src="https://img.icons8.com/cute-clipart/64/react-native.png" alt="react"/>
-<img width="50" height="50" src="https://img.icons8.com/ios-filled/50/mysql-logo.png" alt="mysql-logo"/><img width="50" height="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/><img width="48" height="48" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/> 
+<img width="50" height="50" src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="mysql-logo"/><img width="50" height="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/><img width="48" height="48" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/> 
 
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/><img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> 
