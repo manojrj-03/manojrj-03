@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning DSA and New Techologies to improve my carrier.<br/>
 - Bsc Computer Science Degree at ST.Hindu College, Nagercoil.</br>
 - Social Presence
-<br /> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> (https://www.linkedin.com/in/manoj-r-1078692ab/) <br/> <img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />(https://www.instagram.com/manoj.rj__/)
+<br />[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/manoj-r-1078692ab/) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/manoj.rj__/)
 
 ### I code in
 <img width="50" height="50" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/> <img width="50" height="50" src="https://img.icons8.com/color/48/css3.png" alt="css3"/> <img width="50" height="50" src="https://img.icons8.com/color-glass/48/bootstrap.png" alt="bootstrap"/> <img width="50" height="50" src="https://img.icons8.com/fluency/48/javascript.png" alt="javascript"/> <img width="50" height="50" src="https://img.icons8.com/cute-clipart/64/react-native.png" alt="react"/>
