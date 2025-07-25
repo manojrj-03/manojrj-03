@@ -1,8 +1,8 @@
 ## Hi there 👋 It's me Manoj
 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">                                               
-- 🌱 I’m currently learning DSA and New Techologies to improve my carrier.
-- Bsc Computer Science Degree at ST.Hindu College, Nagercoil.
+- 🌱 I’m currently learning DSA and New Techologies to improve my carrier.<br/>
+- Bsc Computer Science Degree at ST.Hindu College, Nagercoil.</br>
 - Social Presence
 <br /> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> (https://www.linkedin.com/in/manoj-r-1078692ab/) <br/> <img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />(https://www.instagram.com/manoj.rj__/)
 
