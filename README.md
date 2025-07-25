@@ -5,6 +5,7 @@
 - Bsc Computer Science Degree at ST.Hindu College, Nagercoil.</br>
 
 💬 Let’s Connect
+[![Logo Alt Text](https://img.icons8.com/fluency/48/linkedin.png)](https://www.linkedin.com/in/manoj-r-1078692ab/)
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>(https://www.linkedin.com/in/manoj-r-1078692ab/)
 
 ### I code in
