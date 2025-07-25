@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning DSA and New Techologies to improve my carrier.<br/>
 - 🎓 Bsc Computer Science Degree at ST.Hindu College, Nagercoil.</br>
 
-- 💬 Let’s Connect
+- Lets Connect
 <br/>[![Logo Alt Text](https://img.icons8.com/fluency/48/linkedin.png)](https://www.linkedin.com/in/manoj-r-1078692ab/) [![Logo Alt Text](https://img.icons8.com/fluency/48/instagram-new.png)](https://www.instagram.com/manoj.rj__/)
 
 
